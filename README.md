@@ -1,0 +1,1 @@
+# nou-Alta-disponibilitat-en-PostgreSQL
